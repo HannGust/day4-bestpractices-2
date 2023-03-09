@@ -28,9 +28,9 @@ def poly_first(x, a0, a1):
     ----------
     x : int or float
         The point at which to evalulate the polynomial.
-    a0: int or float
+    a0 : int or float
         The constant coefficient of the polynomial, i.e. in the degree 0 term.
-    a1: int or float
+    a1 : int or float
         The linear coefficient of the polynomial, i.e. in the degree 1 term.
 
 
@@ -52,11 +52,11 @@ def poly_second(x, a0, a1, a2):
     ----------
     x : int or float
         The point at which to evalulate the polynomial.
-    a0: int or float
+    a0 : int or float
         The constant coefficient of the polynomial, i.e. in the degree 0 term.
-    a1: int or float
+    a1 : int or float
         The linear coefficient of the polynomial, i.e. in the degree 1 term.
-    a2: int or float
+    a2 : int or float
         The quadratic coefficient of the polynomial, i.e. in the degree 2 term.
 
 
