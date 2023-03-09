@@ -1,4 +1,4 @@
-""" Tests of simple_math.py module """
+""" Tests of the simple_math.py module """
 
 import pytest
 #from simple_math import *
